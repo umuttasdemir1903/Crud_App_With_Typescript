@@ -12,4 +12,4 @@
 
 Screen View
 
-![](./public/crud_app-Ts.gif);
+![](./public/crud_app-Ts.gif)
